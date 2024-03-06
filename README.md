@@ -1,6 +1,6 @@
-# 👋 Welcome to Md. Yeasin Ali's GitHub Profile! 🚀
+# 👋 Welcome to Md. Ashikur Rahman's GitHub Profile! 🚀
 
-Hello there! 👋 I'm Md. Yeasin Ali, also known as **itzmdyeasinali** on GitHub. Currently, I'm pursuing my studies in Mechanical Engineering at Jashore Polytechnic Institute. Besides my academic pursuits, I'm passionate about software development and enjoy diving into the world of web technologies, particularly JavaScript and its frameworks like React, Vue, and Angular JS.
+Hello there! 👋 I'm Md. Ashikur Rahman, also known as **itzmdyeasinali** on GitHub. Currently, I'm pursuing my studies in Mechanical Engineering at Jashore Polytechnic Institute. Besides my academic pursuits, I'm passionate about software development and enjoy diving into the world of web technologies, particularly JavaScript and its frameworks like React, Vue, and Angular JS.
 
 ## About Me ℹ️
 
